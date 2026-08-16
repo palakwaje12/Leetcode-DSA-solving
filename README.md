@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0137-single-number-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
