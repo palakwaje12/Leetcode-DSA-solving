@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0577-employee-bonus) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
