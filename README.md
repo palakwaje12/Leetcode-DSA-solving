@@ -18,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0007-reverse-integer) |
 | [0507-perfect-number](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
