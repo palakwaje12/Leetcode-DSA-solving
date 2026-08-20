@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0137-single-number-ii) |
 ## Bit Manipulation
 |  |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0007-reverse-integer) |
 | [0507-perfect-number](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0507-perfect-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/palakwaje12/Leetcode-DSA-solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
